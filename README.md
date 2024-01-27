@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
     <img src="https://img.shields.io/badge/-PHP-puple?style=flat&logo=PHP" />
     <img src="https://img.shields.io/badge/-python-red?style=flat&logo=python " />
-    <img src="https://img.shields.io/badge/-Go?-oringe?style=flat&logo=Go " />
+    <img src="https://img.shields.io/badge/-Go-oringe?style=flat&logo=Go " />
   </span>
 </div>
 
