@@ -1,6 +1,6 @@
-<center># Hi, 👋  I'm <a href="https://icml8.github.io/"> (D1a0y1bb)</a> </center>
+<center># Hi, 👋  I'm <a href="https://icml8.github.io/"> (D1a0y1bb)</a>
 
-<center>-- 12121</center>
+
 
 <p align="center">
   <a href="https://github.com/ICML8" class="rich-diff-level-one">
@@ -31,6 +31,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ICML8" class="rich-diff-level-one">
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+  </a>
+</p>
 
 
 
