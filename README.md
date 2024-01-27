@@ -6,11 +6,9 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
     <img src="https://img.shields.io/badge/PHP-PHP?style=flat&logo=PHP" />
-    <img src="https://img.shields.io/badge/python-python?style=flat&logo=python " />
-    <img src="https://img.shields.io/badge/Go-Go?style=flat&logo=Go " />
-    <img src="https://img.shields.io/badge/java-java?style=flat&logo=java " />
-)
-
+    <img src="https://img.shields.io/badge/python-python-oringe?style=flat&logo=python " />
+    <img src="https://img.shields.io/badge/Go-Go?-oringe?style=flat&logo=Go " />
+    <img src="https://img.shields.io/badge/java-java?-red?style=flat&logo=Java " />
   </span>
 </div>
 
