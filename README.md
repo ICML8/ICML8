@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
     <img src="https://img.shields.io/badge/PHP-PHP?style=flat&logo=PHP" />
     <img src="https://img.shields.io/badge/python-python?style=flat&logo=python " />
-    <img src=" " />
-    <img src=" " />
+    <img src="https://img.shields.io/badge/Go-Go?style=flat&logo=Go " />
+    <img src="https://img.shields.io/badge/java-java?style=flat&logo=java " />
 )
 
   </span>
