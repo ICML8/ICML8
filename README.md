@@ -8,9 +8,9 @@
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
       <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/-PHP-puple?style=flat&logo=PHP" />
+      <img src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=PHP" />
       <img src="https://img.shields.io/badge/-python-red?style=flat&logo=python " />
-      <img src="https://img.shields.io/badge/-Go-oringe?style=flat&logo=Go " />
+      <img src="https://img.shields.io/badge/-Go-white?style=flat&logo=Go " />
     </span>
   </a>
 </p>
