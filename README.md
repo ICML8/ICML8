@@ -13,6 +13,15 @@
   </div>
 </p>
 
+<p align="center">
+  <a href="https://github.com/HIM198" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
+    -->
+  </a>
+</p>
+
 
 <div style="text-align: center;">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ICML8&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
